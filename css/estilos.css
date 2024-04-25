@@ -1,0 +1,5 @@
+body{
+    /*oculata las barras de scroll*/
+    overflow: hidden;
+    margin: 0%;
+}
